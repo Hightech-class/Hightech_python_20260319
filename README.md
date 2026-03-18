@@ -17,3 +17,7 @@ python class contents
   *** range : 숫자의 시퀀스를 생성하는 기능 제공
 
 ** (while loop, while loop + else) : while 루프는 조건을 만족한다면 계속 실행  
+
+** (break and continue)
+   *** break : 반복 루프를 종료(루프 바로 다음의 명령문으로 실행 흐름 변경)
+   *** continue : 현재 반복의 나머지 코드를 건너뛰어 루프 진행
