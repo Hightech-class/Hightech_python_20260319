@@ -21,3 +21,9 @@ python class contents
 ** (break and continue)
    *** break : 반복 루프를 종료(루프 바로 다음의 명령문으로 실행 흐름 변경)
    *** continue : 현재 반복의 나머지 코드를 건너뛰어 루프 진행
+
+** (pass)
+   *** 빈 명령문(null statement)
+   *** 인터프리터가 이 명령문을 무시하지는 않지만, 아무런 작업을 수행x(주석은 인터프리터가 그 자체를 무시함)
+   *** 추후에 구현되어야할 loop, function 등의 구현 부분에 사용
+   
