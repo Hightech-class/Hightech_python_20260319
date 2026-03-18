@@ -12,3 +12,6 @@ python class contents
 ** (Nested if..elif..else) : 조건 구문 내부에 다른 조건 구문을 둘 수 있음
 
 ** (for loop) : 반복 접근 가능한 객체/연산에 처리 과정에 사용
+
+** (for loop + range)
+  *** range : 숫자의 시퀀스를 생성하는 기능 제공
