@@ -15,3 +15,5 @@ python class contents
 
 ** (for loop + range)
   *** range : 숫자의 시퀀스를 생성하는 기능 제공
+
+** (while loop, while loop + else) : while 루프는 조건을 만족한다면 계속 실행  
