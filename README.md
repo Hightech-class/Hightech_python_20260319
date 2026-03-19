@@ -42,7 +42,7 @@ python class contents
 
 * Recursion(재귀) : 함수가 자기 자신을 호출하는것(기본값으로 최대 재귀깊이(depth)는 1000이긴 하지만 파이썬 버전,성능에 따라 다름)
 
-* Anonymous/Lambda function
+* Anonymous/Lambda function(매우중요)
   ** 이름(name)없이 정의된 함수
   ** lambda 키워드를 사용해서 정의함
   ** 선언 방식(하나의 expression만 허용)
