@@ -30,4 +30,21 @@ python class contents
 * 함수(function)   
    ** 특정 작업을 수행하기 위한 관련된 명령문(statement)의 그룹
    ** 프로그램을 더 작고, 모듈 청크(chunk)로 나눌 수 있음
-   ** 코드의 중복성 낮추고, 재사용성을 높일 수 있음
+   ** 코드의 중복성 낮추고, 재사용성을 높일 수 있음 -> 간단하게 쓸수있다, 구조가 유연하다
+   ** 선언양식 : |def function_name(parameters) : |
+                 |" " " docsting " " "            | 
+                 | statement (s)                  |
+
+* Function arguments(인자)
+  ** Default arguments : 선언시에 인자의 기본값(default value)을 지정해줌, Default 이후에 모든 모든 인자는 기본값이 존재해야함(중요!)    
+  ** Keyword arguments : 인자 전달시에, 위치 또는 키워드를 기반으로 적용, 키워드 인자 뒤에 위치를 사용하면 오류 발생
+  ** Arbitary arguments : 별표*를 인자명 앞에 사용, 인자에 대한 임의의 개수를 반영할수있음(tuple 변환 일어남)
+
+* Recursion(재귀) : 함수가 자기 자신을 호출하는것(기본값으로 최대 재귀깊이(depth)는 1000이긴 하지만 파이썬 버전,성능에 따라 다름)
+
+* Anonymous/Lambda function
+  ** 이름(name)없이 정의된 함수
+  ** lambda 키워드를 사용해서 정의함
+  ** 선언 방식(하나의 expression만 허용)
+
+* Modules  
